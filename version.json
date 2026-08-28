@@ -1,7 +1,7 @@
 {
-  "version": "4.9",
+  "version": "4.8",
   "download_url": "https://github.com/artin11y/coop-connect-updates/releases/download/v4.9/Co-op-Connect.exe",
   "sha256": "SHA256_64_CHARACTER_HASH_HERE",
   "mandatory": false,
-  "notes": "Co-op Connect Windows v4.9"
+  "notes": "Co-op Connect Windows v4.8"
 }
